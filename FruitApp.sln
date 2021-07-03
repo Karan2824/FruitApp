@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitApp", "FruitApp\FruitApp.csproj", "{B92FC209-BD29-4772-9AC6-F458DBA72127}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B92FC209-BD29-4772-9AC6-F458DBA72127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B92FC209-BD29-4772-9AC6-F458DBA72127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B92FC209-BD29-4772-9AC6-F458DBA72127}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B92FC209-BD29-4772-9AC6-F458DBA72127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B92FC209-BD29-4772-9AC6-F458DBA72127}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B92FC209-BD29-4772-9AC6-F458DBA72127}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0877A943-C9FF-4021-B675-184BD1A1D497}
+	EndGlobalSection
+EndGlobal
